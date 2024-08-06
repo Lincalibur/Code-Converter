@@ -1,3 +1,4 @@
+import shutil
 import unittest
 import os
 from scripts.copy_project_structure import copy_project_structure
